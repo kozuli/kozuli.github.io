@@ -1,4 +1,9 @@
 ---
 label: two columns
 hide_body: false
-fields: []
+fields:
+- name: label_for_field
+  type: text
+  config:
+    required: false
+  label: label for field
