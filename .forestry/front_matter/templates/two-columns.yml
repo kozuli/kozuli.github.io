@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: label for field
+pages:
+- _posts/2019-09-28-first_post.md
