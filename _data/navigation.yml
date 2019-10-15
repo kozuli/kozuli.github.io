@@ -3,10 +3,54 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: /terms/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /about/
+  - title: "Courses"
+    url: /courses/
+  - title: "Events"
+    url: /events/
+  - title: "Kontakt / Impressum"
+    url: /contact/
+  - title: "Blog"
+    url: /blog/
+  - title: "Splash"
+    url: /splash-page/
+
+about:
+  - title: "Über uns"
+    children:
+      - title: "Mission"
+        url: /about-mission/
+      - title: "Wer wir sind"
+        url: /about-competencies/
+      - title: "Unseres Team"
+        url: /about-team/
+
+courses:
+  - title: "Sprachen"
+    children:
+      - title: "Russisch"
+        url: /cources-russian/
+      - title: "Englisch"
+        url: /courses-englisch/
+  - title: "Handwerk"
+    children:
+      - title: "Crafts for kids"
+        url: /courses-crafts/
+      - title: "Прaвополушарное рисование"
+        url: /courses-right-hemispheric-drawing/
+  - title: "Naturwissenschaft"
+    children:
+      - title: "Programming Scratch Junior"
+        url: /cources-scratchj/
+      - title: "Programming Logo"
+        url: /cources-logo/
+      - title: "Programming Python"
+        url: /cources-python/
+      - title: "Physics for kids"
+        url: /courses-physics/
+  - title: "Theater"
+    children:
+      - title: "Singen"
+        url: /courses-sing/
+      - title: "Tanzen"
+        url: /courses-dance/
