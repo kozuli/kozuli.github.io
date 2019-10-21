@@ -1,2 +1,7 @@
 ### Enable search for _pages
 https://github.com/mmistakes/minimal-mistakes/issues/1409
+
+###blured background
+ANzupassen: page__hero.html
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_blurred_bg
+https://www.w3schools.com/css/tryit.asp?filename=trycss_ex_images_filters
